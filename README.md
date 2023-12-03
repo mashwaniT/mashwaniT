@@ -1,13 +1,13 @@
-<h1 align="center">👋 Hi there, I'm [Your Name]!</h1>
+<h1 align="center">👋 Hi there, I'm Taha!</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet" alt="profile views">
+  <img src="https://komarev.com/ghpvc/?username=mashwaniT&color=blueviolet" alt="profile views">
   <!-- You can add more badges from https://shields.io/ -->
 </p>
 
 ## About Me 🌟
 
-I'm a [Your Job Title, e.g., Full-Stack Developer] based in [Your Location]. I'm passionate about creating impactful solutions through technology and have a deep love for [Your Areas of Interest, e.g., web development, AI, open-source contributions].
+I'm a software engineer based in Waterloo. I'm passionate about creating impactful solutions through technology and have a deep love for embedded systems, machine learning, and automation.
 
 ### What I'm Working On 👨‍💻
 
