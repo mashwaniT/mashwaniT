@@ -1,8 +1,8 @@
-# Hello, I'm [Taha]!
+# Hello, I'm Taha!
 
 ## 👋 Welcome to My GitHub Profile!
 
-I'm Taha, a passionate and software developer with a keen interest in machine learning, automation and embedded systems. Based in Waterloo Ontario, I am trying to learn as much as I can about software engineering in order to choose a field to specialize in.
+Here's a little teaser - a passionate and software developer with a keen interest in machine learning, automation and embedded systems. Based in Waterloo Ontario, I am trying to learn as much as I can about software engineering in order to choose a field to specialize in.
 
 ### 🌱 What I'm Up To
 
