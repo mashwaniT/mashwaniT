@@ -1,52 +1,47 @@
-# Hello, I'm Taha!
+<h1 align="center">👋 Hi there, I'm [Your Name]!</h1>
 
-## 👋 Welcome to My GitHub Profile!
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet" alt="profile views">
+  <!-- You can add more badges from https://shields.io/ -->
+</p>
 
-Here's a little teaser - a passionate and software developer with a keen interest in machine learning, automation and embedded systems. Based in Waterloo Ontario, I am trying to learn as much as I can about software engineering in order to choose a field to specialize in.
+## About Me 🌟
 
-### 🌱 What I'm Up To
+I'm a [Your Job Title, e.g., Full-Stack Developer] based in [Your Location]. I'm passionate about creating impactful solutions through technology and have a deep love for [Your Areas of Interest, e.g., web development, AI, open-source contributions].
 
-- Currently working at Blackberry QNX as a SWE Intern on the Configuration Management team.
-- Learning more about Python, C++.
-- Looking to collaborate on anything that will enhance my knowledge.
+### What I'm Working On 👨‍💻
 
-### 🚀 My Skills
+- 🛠 Interning at Blackberry QNX.
+- 📚 Learning about the whole software development lifecycle and sharpening my algorithms knowledge.
+- 🔍 Seeking collaboration in all projects that will challenge me.
 
-- **Languages**: Python, C++.
-- **Frameworks**: React, Numpy, pandas.
-- **Tools**: Git, Jenkins, Gitlab, Terraform.
+### My Toolbox 🧰
 
-### ✨ Featured Projects
 
-- **[Project Name]**: [Short Description] ([Link to Project])
-- **[Another Project]**: [Short Description] ([Link to Another Project])
+- Languages: Python, C++.
+- Frameworks: React, Numpy, pandas.
+- Tools: Git, Jenkins, Gitlab, Terraform.
 
-### 📫 How to Reach Me
 
-- **Email**: [mashwani21taha@gmail.com]
-- **LinkedIn**: [https://www.linkedin.com/in/mashwanit/]
+### My Recent Projects 🚀
 
-### 💡 Fun Fact
+- **Movie Recommender System**: My introduction to machine learning principles.
+- **Personal Website**: My experiment with React Typescript and Next.js. ([https://tahas.io/])
 
-[Interesting Fact About Yourself]
+### Connect with Me 🌐
+
+- **📧 Email**: [mashwani21taha@gmail.com]
+- **💼 LinkedIn**: [Taha Amir](https://www.linkedin.com/in/mashwanit/)
+
+### Fun Fact 💡
+
+> I can eat an extra large Dominos pizza in one sitting.
+
+### GitHub Stats 📊
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mashwaniT&show_icons=true&theme=radical)
 
 ---
 
-Thank you for visiting my GitHub profile! Feel free to browse through my repositories and don't hesitate to reach out if you have any questions or ideas for collaboration.
+<p align="center">💬 Feel free to browse through my repositories and reach out for collaborations or just a friendly chat!</p>
 
-
-
-<!--
-**mashwaniT/mashwaniT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
